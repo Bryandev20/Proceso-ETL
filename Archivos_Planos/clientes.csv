@@ -1,0 +1,8 @@
+Cliente_ID;Nombre;Apellido;Correo Electrónico;Teléfono;Dirreción;Ciudad;País;Edad;Género
+1;Juan;Pérez;juanperez@gmail.com;912345678;Calle Ficticia 123;Madrid;España;34;M
+2;María;López;marialopez@gmail.com;923456789;Av. Libertad 456;Barcelona;España;28;F
+3;Ana;Ruiz;anaruiz@gmail.com;934567890;C. Real 789;Valencia;España;30;F
+4;Luis;Gómez;luisgomez@gmail.com;945678901;Plaza Mayor 7;Sevilla;España;40;M
+5;Carla;Martín;carlamartin@gmail.com;956789012;C. Aragón 123;Zaragoza;España;35;F
+6;Pedro;Sánchez;pedrosanchez@gmail.com;967890123;Av. de las Aguas 99;Málaga;España;38;M
+7;Laura;Díaz;lauradiaz@gmail.com;989012345;C. Libertad 34;Valencia;España;26;F

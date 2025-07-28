@@ -1,0 +1,41 @@
+﻿Venta_ID;Fecha;Cliente_ID;Producto_ID;Cantidad;Precio_Unitario;Total;Metodo_de_Pago;Descuento;Estado_de_Venta;Direccion_Envio;Ciudad_Envio
+1;2/07/2025 14:30;7;103;1;20;20;Efectivo;5;Enviado;C. Libertad 34;Valencia
+2;3/07/2025 14:30;4;102;3;600;1800;Transferencia;10;Pendiente;Plaza Mayor 7;Sevilla
+3;4/07/2025 14:30;6;103;3;20;60;Tarjeta Crédito;0;Pendiente;Av. de las Aguas 99;Málaga
+4;5/07/2025 14:30;5;103;1;20;20;Efectivo;5;Enviado;C. Aragón 123;Zaragoza
+5;6/07/2025 14:30;4;103;3;20;60;Efectivo;0;Enviado;Plaza Mayor 7;Sevilla
+6;7/07/2025 14:30;3;101;1;900;900;Transferencia;10;Enviado;C. Real 789;Valencia
+7;8/07/2025 14:30;3;101;3;900;2700;Transferencia;0;Enviado;C. Real 789;Valencia
+8;9/07/2025 14:30;4;103;2;20;40;PayPal;10;Enviado;Plaza Mayor 7;Sevilla
+9;10/07/2025 14:30;5;101;1;900;900;Transferencia;0;Enviado;C. Aragón 123;Zaragoza
+10;11/07/2025 14:30;1;103;3;20;60;Transferencia;10;Enviado;Calle Ficticia 123;Madrid
+11;12/07/2025 14:30;4;102;2;600;1200;PayPal;10;Pendiente;Plaza Mayor 7;Sevilla
+12;13/07/2025 14:30;4;101;3;900;2700;Transferencia;5;Enviado;Plaza Mayor 7;Sevilla
+13;14/07/2025 14:30;3;101;2;900;1800;Tarjeta Crédito;0;Pendiente;C. Real 789;Valencia
+14;15/07/2025 14:30;2;103;3;20;60;Transferencia;0;Enviado;Av. Libertad 456;Barcelona
+15;16/07/2025 14:30;1;102;1;600;600;Transferencia;5;Completa;Calle Ficticia 123;Madrid
+16;17/07/2025 14:30;5;101;3;900;2700;Transferencia;5;Enviado;C. Aragón 123;Zaragoza
+17;18/07/2025 14:30;2;102;1;600;600;Efectivo;0;Completa;Av. Libertad 456;Barcelona
+18;19/07/2025 14:30;1;101;2;900;1800;PayPal;5;Pendiente;Calle Ficticia 123;Madrid
+19;20/07/2025 14:30;2;101;2;900;1800;Transferencia;5;Completa;Av. Libertad 456;Barcelona
+20;21/07/2025 14:30;1;102;2;600;1200;Efectivo;5;Completa;Calle Ficticia 123;Madrid
+21;22/07/2025 14:30;1;101;3;900;2700;Tarjeta Crédito;5;Completa;Calle Ficticia 123;Madrid
+22;23/07/2025 14:30;4;101;1;900;900;Efectivo;10;Enviado;Plaza Mayor 7;Sevilla
+23;24/07/2025 14:30;6;101;2;900;1800;Transferencia;5;Completa;Av. de las Aguas 99;Málaga
+24;25/07/2025 14:30;4;103;2;20;40;PayPal;5;Completa;Plaza Mayor 7;Sevilla
+25;26/07/2025 14:30;6;101;1;900;900;Transferencia;10;Enviado;Av. de las Aguas 99;Málaga
+26;27/07/2025 14:30;2;102;3;600;1800;PayPal;5;Completa;Av. Libertad 456;Barcelona
+27;28/07/2025 14:30;3;102;2;600;1200;Tarjeta Crédito;10;Enviado;C. Real 789;Valencia
+28;29/07/2025 14:30;2;102;1;600;600;PayPal;10;Pendiente;Av. Libertad 456;Barcelona
+29;30/07/2025 14:30;7;101;3;900;2700;Transferencia;5;Enviado;C. Libertad 34;Valencia
+30;31/07/2025 14:30;1;103;3;20;60;PayPal;5;Completa;Calle Ficticia 123;Madrid
+31;1/08/2025 14:30;4;103;1;20;20;Transferencia;10;Completa;Plaza Mayor 7;Sevilla
+32;2/08/2025 14:30;5;102;2;600;1200;Tarjeta Crédito;10;Pendiente;C. Aragón 123;Zaragoza
+33;3/08/2025 14:30;3;102;2;600;1200;PayPal;10;Pendiente;C. Real 789;Valencia
+34;4/08/2025 14:30;1;103;1;20;20;Efectivo;10;Completa;Calle Ficticia 123;Madrid
+35;5/08/2025 14:30;3;103;2;20;40;Tarjeta Crédito;0;Enviado;C. Real 789;Valencia
+36;6/08/2025 14:30;5;103;1;20;20;Transferencia;5;Completa;C. Aragón 123;Zaragoza
+37;7/08/2025 14:30;3;102;2;600;1200;PayPal;5;Pendiente;C. Real 789;Valencia
+38;8/08/2025 14:30;4;102;3;600;1800;PayPal;5;Completa;Plaza Mayor 7;Sevilla
+39;9/08/2025 14:30;7;102;3;600;1800;Transferencia;5;Completa;C. Libertad 34;Valencia
+40;10/08/2025 14:30;1;103;3;20;60;Transferencia;10;Pendiente;Calle Ficticia 123;Madrid
